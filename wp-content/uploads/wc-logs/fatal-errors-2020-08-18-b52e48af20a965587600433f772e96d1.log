@@ -1,0 +1,147 @@
+2020-08-18T06:11:37+00:00 CRITICAL Uncaught Error: Class 'Automattic\WooCommerce\Admin\Events' not found in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/FeaturePlugin.php:175
+Stack trace:
+#0 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/FeaturePlugin.php(143): Automattic\WooCommerce\Admin\FeaturePlugin->includes()
+#1 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/FeaturePlugin.php(80): Automattic\WooCommerce\Admin\FeaturePlugin->on_plugins_loaded()
+#2 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Package.php(82): Automattic\WooCommerce\Admin\FeaturePlugin->init()
+#3 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#4 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/src/Packages.php(72): call_user_func(Array)
+#5 /home/opticaso/public_html/opticasoliva.pe/wp-conte en /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/FeaturePlugin.php en la línea 175
+
+2020-08-18T06:11:44+00:00 CRITICAL Uncaught Error: Class 'Automattic\WooCommerce\Admin\Events' not found in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/FeaturePlugin.php:175
+Stack trace:
+#0 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/FeaturePlugin.php(143): Automattic\WooCommerce\Admin\FeaturePlugin->includes()
+#1 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/FeaturePlugin.php(80): Automattic\WooCommerce\Admin\FeaturePlugin->on_plugins_loaded()
+#2 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Package.php(82): Automattic\WooCommerce\Admin\FeaturePlugin->init()
+#3 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#4 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/src/Packages.php(72): call_user_func(Array)
+#5 /home/opticaso/public_html/opticasoliva.pe/wp-conte en /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/FeaturePlugin.php en la línea 175
+
+2020-08-18T06:11:50+00:00 CRITICAL Uncaught Error: Class 'NextendSocialProviderAdmin' not found in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/nextend-facebook-connect/includes/provider.php:79
+Stack trace:
+#0 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/nextend-facebook-connect/providers/facebook/facebook.php(70): NextendSocialProvider->__construct(Array)
+#1 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/nextend-facebook-connect/providers/facebook/facebook.php(260): NextendSocialProviderFacebook->__construct()
+#2 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/nextend-facebook-connect/nextend-social-login.php(277): require_once('/home/opticaso/...')
+#3 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-hook.php(287): NextendSocialLogin::plugins_loaded('')
+#4 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/opticaso/public_html/opticasoliva.pe/wp-includes/plugin.php(478): WP_Hook->do_action(Arra en /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/nextend-facebook-connect/includes/provider.php en la línea 79
+
+2020-08-18T06:16:48+00:00 CRITICAL Uncaught Error: Class 'NextendSocialProviderAdmin' not found in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/nextend-facebook-connect/includes/provider.php:79
+Stack trace:
+#0 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/nextend-facebook-connect/providers/facebook/facebook.php(70): NextendSocialProvider->__construct(Array)
+#1 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/nextend-facebook-connect/providers/facebook/facebook.php(260): NextendSocialProviderFacebook->__construct()
+#2 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/nextend-facebook-connect/nextend-social-login.php(277): require_once('/home/opticaso/...')
+#3 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-hook.php(287): NextendSocialLogin::plugins_loaded('')
+#4 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/opticaso/public_html/opticasoliva.pe/wp-includes/plugin.php(478): WP_Hook->do_action(Arra en /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/nextend-facebook-connect/includes/provider.php en la línea 79
+
+2020-08-18T06:18:16+00:00 CRITICAL Uncaught Error: Class 'WP_Widget_Meta' not found in /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-widget-factory.php:61
+Stack trace:
+#0 /home/opticaso/public_html/opticasoliva.pe/wp-includes/widgets.php(115): WP_Widget_Factory->register('WP_Widget_Meta')
+#1 /home/opticaso/public_html/opticasoliva.pe/wp-includes/widgets.php(1748): register_widget('WP_Widget_Meta')
+#2 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-hook.php(287): wp_widgets_init('')
+#3 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#4 /home/opticaso/public_html/opticasoliva.pe/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/opticaso/public_html/opticasoliva.pe/wp-settings.php(546): do_action('init')
+#6 /home/opticaso/public_html/opticasoliva.pe/wp-config.php(90): require_once('/home/opticaso/...')
+#7 /home/opticaso/public_html/opticasoliva.pe/wp-load.php(37): require_once('/home/opticaso/...')
+#8 /home/opticaso/public_html/optic en /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-widget-factory.php en la línea 61
+
+2020-08-18T22:25:22+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_loop_prop() in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php:376
+Stack trace:
+#0 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php(363): WC_Query->adjust_total_pages()
+#1 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-hook.php(289): WC_Query->handle_get_posts(Array)
+#2 /home/opticaso/public_html/opticasoliva.pe/wp-includes/plugin.php(249): WP_Hook->apply_filters(Array, Array)
+#3 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-query.php(3190): apply_filters_ref_array('the_posts', Array)
+#4 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#5 /home/opticaso/public_html/opticasoliva.pe/wp-includes/query.php(98): WP_Query->query(Array)
+#6 /home/opticaso/public_html/opticasoliva.pe/wp-content/themes/flatsome/inc/functions/function-global.php(66): query_posts(Array)
+#7 /home/ en /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php en la línea 376
+
+2020-08-18T22:34:08+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_loop_prop() in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php:376
+Stack trace:
+#0 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php(363): WC_Query->adjust_total_pages()
+#1 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-hook.php(289): WC_Query->handle_get_posts(Array)
+#2 /home/opticaso/public_html/opticasoliva.pe/wp-includes/plugin.php(249): WP_Hook->apply_filters(Array, Array)
+#3 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-query.php(3190): apply_filters_ref_array('the_posts', Array)
+#4 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#5 /home/opticaso/public_html/opticasoliva.pe/wp-includes/query.php(98): WP_Query->query(Array)
+#6 /home/opticaso/public_html/opticasoliva.pe/wp-content/themes/flatsome/inc/functions/function-global.php(66): query_posts(Array)
+#7 /home/ en /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php en la línea 376
+
+2020-08-18T22:34:37+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_loop_prop() in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php:376
+Stack trace:
+#0 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php(363): WC_Query->adjust_total_pages()
+#1 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-hook.php(289): WC_Query->handle_get_posts(Array)
+#2 /home/opticaso/public_html/opticasoliva.pe/wp-includes/plugin.php(249): WP_Hook->apply_filters(Array, Array)
+#3 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-query.php(3190): apply_filters_ref_array('the_posts', Array)
+#4 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#5 /home/opticaso/public_html/opticasoliva.pe/wp-includes/query.php(98): WP_Query->query(Array)
+#6 /home/opticaso/public_html/opticasoliva.pe/wp-content/themes/flatsome/inc/functions/function-global.php(66): query_posts(Array)
+#7 /home/ en /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php en la línea 376
+
+2020-08-18T22:39:58+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_loop_prop() in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php:376
+Stack trace:
+#0 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php(363): WC_Query->adjust_total_pages()
+#1 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-hook.php(289): WC_Query->handle_get_posts(Array)
+#2 /home/opticaso/public_html/opticasoliva.pe/wp-includes/plugin.php(249): WP_Hook->apply_filters(Array, Array)
+#3 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-query.php(3190): apply_filters_ref_array('the_posts', Array)
+#4 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#5 /home/opticaso/public_html/opticasoliva.pe/wp-includes/query.php(98): WP_Query->query(Array)
+#6 /home/opticaso/public_html/opticasoliva.pe/wp-content/themes/flatsome/inc/functions/function-global.php(66): query_posts(Array)
+#7 /home/ en /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php en la línea 376
+
+2020-08-18T22:41:43+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_loop_prop() in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php:376
+Stack trace:
+#0 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php(363): WC_Query->adjust_total_pages()
+#1 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-hook.php(289): WC_Query->handle_get_posts(Array)
+#2 /home/opticaso/public_html/opticasoliva.pe/wp-includes/plugin.php(249): WP_Hook->apply_filters(Array, Array)
+#3 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-query.php(3190): apply_filters_ref_array('the_posts', Array)
+#4 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#5 /home/opticaso/public_html/opticasoliva.pe/wp-includes/query.php(98): WP_Query->query(Array)
+#6 /home/opticaso/public_html/opticasoliva.pe/wp-content/themes/flatsome/inc/functions/function-global.php(66): query_posts(Array)
+#7 /home/ en /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php en la línea 376
+
+2020-08-18T22:50:53+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_loop_prop() in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php:376
+Stack trace:
+#0 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php(363): WC_Query->adjust_total_pages()
+#1 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-hook.php(289): WC_Query->handle_get_posts(Array)
+#2 /home/opticaso/public_html/opticasoliva.pe/wp-includes/plugin.php(249): WP_Hook->apply_filters(Array, Array)
+#3 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-query.php(3190): apply_filters_ref_array('the_posts', Array)
+#4 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#5 /home/opticaso/public_html/opticasoliva.pe/wp-includes/query.php(98): WP_Query->query(Array)
+#6 /home/opticaso/public_html/opticasoliva.pe/wp-content/themes/flatsome/inc/functions/function-global.php(66): query_posts(Array)
+#7 /home/ en /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php en la línea 376
+
+2020-08-18T22:58:06+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_loop_prop() in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php:376
+Stack trace:
+#0 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php(363): WC_Query->adjust_total_pages()
+#1 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-hook.php(289): WC_Query->handle_get_posts(Array)
+#2 /home/opticaso/public_html/opticasoliva.pe/wp-includes/plugin.php(249): WP_Hook->apply_filters(Array, Array)
+#3 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-query.php(3190): apply_filters_ref_array('the_posts', Array)
+#4 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#5 /home/opticaso/public_html/opticasoliva.pe/wp-includes/query.php(98): WP_Query->query(Array)
+#6 /home/opticaso/public_html/opticasoliva.pe/wp-content/themes/flatsome/inc/functions/function-global.php(66): query_posts(Array)
+#7 /home/ en /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php en la línea 376
+
+2020-08-18T23:09:07+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_loop_prop() in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php:376
+Stack trace:
+#0 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php(363): WC_Query->adjust_total_pages()
+#1 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-hook.php(289): WC_Query->handle_get_posts(Array)
+#2 /home/opticaso/public_html/opticasoliva.pe/wp-includes/plugin.php(249): WP_Hook->apply_filters(Array, Array)
+#3 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-query.php(3190): apply_filters_ref_array('the_posts', Array)
+#4 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#5 /home/opticaso/public_html/opticasoliva.pe/wp-includes/query.php(98): WP_Query->query(Array)
+#6 /home/opticaso/public_html/opticasoliva.pe/wp-content/themes/flatsome/inc/functions/function-global.php(66): query_posts(Array)
+#7 /home/ en /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php en la línea 376
+
+2020-08-18T23:25:17+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_loop_prop() in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php:376
+Stack trace:
+#0 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php(363): WC_Query->adjust_total_pages()
+#1 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-hook.php(289): WC_Query->handle_get_posts(Array)
+#2 /home/opticaso/public_html/opticasoliva.pe/wp-includes/plugin.php(249): WP_Hook->apply_filters(Array, Array)
+#3 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-query.php(3190): apply_filters_ref_array('the_posts', Array)
+#4 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#5 /home/opticaso/public_html/opticasoliva.pe/wp-includes/query.php(98): WP_Query->query(Array)
+#6 /home/opticaso/public_html/opticasoliva.pe/wp-content/themes/flatsome/inc/functions/function-global.php(66): query_posts(Array)
+#7 /home/ en /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/includes/class-wc-query.php en la línea 376
+

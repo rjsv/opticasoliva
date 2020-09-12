@@ -1,0 +1,24 @@
+2020-08-31T03:48:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 5da2550d7fbad2e152f59df525d7d82b
+2020-08-31T03:48:52+00:00 NOTICE abandoned_cart.success :: email: nadia.esquivel.t@gmail.com :: checkout_url: https://opticasoliva.pe/checkout/?mc_cart_id=5da2550d7fbad2e152f59df525d7d82b
+2020-08-31T03:48:52+00:00 NOTICE cart.member.updated :: Updated nadia.esquivel.t@gmail.com subscriber status to subscribed and language to es
+2020-08-31T03:52:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1224
+2020-08-31T03:52:40+00:00 NOTICE debug :: Order ID 1224 was pending and is now failed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-08-31T03:54:23+00:00 NOTICE debug :: Order ID 1224 was failed and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-08-31T03:56:44+00:00 NOTICE debug :: Order ID 1224 was on-hold and is now processing :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-08-31T04:40:58+00:00 NOTICE order.member.updated :: Updated nadia.esquivel.t@gmail.com subscriber status to subscribed and language to es
+2020-08-31T04:40:58+00:00 NOTICE order_submit.success :: addStoreOrder :: #1224 :: email: nadia.esquivel.t@gmail.com :: landing site https://opticasoliva.pe/shop/ :: abandoned cart deleted [5da2550d7fbad2e152f59df525d7d82b]

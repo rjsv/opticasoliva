@@ -1,0 +1,9 @@
+2020-09-07T22:07:10+00:00 NOTICE debug :: Order ID 1227 was processing and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-09-07T22:07:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1227
+2020-09-07T22:10:23+00:00 NOTICE order.member.updated :: Updated jsechau@gmail.com subscriber status to subscribed and language to 
+2020-09-07T22:10:23+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1227 :: email: jsechau@gmail.com

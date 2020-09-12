@@ -1,0 +1,10 @@
+2020-09-01T11:13:57+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1225
+2020-09-01T11:42:09+00:00 NOTICE order_sumbit :: #1225 has a financial status of pending and was skipped.
+2020-09-01T13:31:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1225
+2020-09-01T13:31:14+00:00 NOTICE debug :: Order ID 1225 was pending and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-09-01T13:34:39+00:00 NOTICE order_sumbit :: #1225 has a financial status of cancelled and was skipped.

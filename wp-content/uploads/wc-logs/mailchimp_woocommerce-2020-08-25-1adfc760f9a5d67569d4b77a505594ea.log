@@ -1,0 +1,15 @@
+2020-08-25T19:31:21+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id ec30636507d850db1ecc7a5a39474897
+2020-08-25T19:31:22+00:00 NOTICE abandoned_cart.success :: email: jose8371@yahoo.com :: checkout_url: https://opticasoliva.pe/checkout/?mc_cart_id=ec30636507d850db1ecc7a5a39474897
+2020-08-25T19:31:23+00:00 NOTICE cart.member.updated :: Updated jose8371@yahoo.com subscriber status to transactional and language to es
+2020-08-25T19:32:00+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1146
+2020-08-25T19:32:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id ec30636507d850db1ecc7a5a39474897
+2020-08-25T19:35:45+00:00 NOTICE order_sumbit :: #1146 has a financial status of pending and was skipped.
+2020-08-25T19:35:45+00:00 NOTICE abandoned_cart.success :: email: jose8371@yahoo.com :: checkout_url: https://opticasoliva.pe/checkout/?mc_cart_id=ec30636507d850db1ecc7a5a39474897
+2020-08-25T21:13:49+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1146
+2020-08-25T21:13:49+00:00 NOTICE debug :: Order ID 1146 was pending and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-08-25T22:17:09+00:00 NOTICE order_sumbit :: #1146 has a financial status of cancelled and was skipped.

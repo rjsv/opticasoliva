@@ -1,0 +1,32 @@
+2020-08-14T17:21:31+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5f2e1a63a1cb3
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 4022c909c3
+            [name] => Ópticas Oliva
+            [domain] => https://opticasoliva.pe
+            [email_address] => hola@opticasoliva.pe
+            [currency_code] => PEN
+            [money_format] => S/
+            [primary_locale] => es
+            [timezone] => America/New_York
+            [phone] => 989258215
+            [address] => Array
+                (
+                    [address1] => Jirón Huancavelica 314 B
+                    [city] => Lima
+                    [province] => Lima
+                    [postal_code] => 15001
+                    [country] => PE
+                    [country_code] => PE
+                    [phone] => 989258215
+                    [company] => Ópticas Oliva
+                )
+
+        )
+
+)
+

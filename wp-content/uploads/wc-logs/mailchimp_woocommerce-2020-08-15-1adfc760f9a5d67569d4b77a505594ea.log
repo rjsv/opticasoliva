@@ -1,0 +1,64 @@
+2020-08-15T19:07:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1087
+2020-08-15T19:10:12+00:00 NOTICE product_submit.success :: addStoreProduct :: #1087
+2020-08-15T22:40:41+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1091
+2020-08-15T22:41:32+00:00 NOTICE product_submit.success :: addStoreProduct :: #1091
+2020-08-15T22:44:25+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id a1e1895f54f4b3d43b627dee46d3dde7
+2020-08-15T22:45:01+00:00 NOTICE abandoned_cart.success :: email: cristhian.0916@gmail.com :: checkout_url: https://opticasoliva.pe/checkout/?mc_cart_id=a1e1895f54f4b3d43b627dee46d3dde7
+2020-08-15T22:45:02+00:00 NOTICE cart.member.updated :: Updated cristhian.0916@gmail.com subscriber status to transactional and language to es
+2020-08-15T22:45:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1092
+2020-08-15T22:46:05+00:00 NOTICE debug :: Order ID 1092 was pending and is now failed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-08-15T22:51:18+00:00 NOTICE system.debug :: order 1092 is in failed status, and is being skipped for now.
+2020-08-15T22:57:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1092
+2020-08-15T22:58:23+00:00 NOTICE debug :: Order ID 1092 was failed and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-08-15T22:59:23+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id a1e1895f54f4b3d43b627dee46d3dde7
+2020-08-15T22:59:25+00:00 NOTICE abandoned_cart.success :: email: cristhian.0916@gmail.com :: checkout_url: https://opticasoliva.pe/checkout/?mc_cart_id=a1e1895f54f4b3d43b627dee46d3dde7
+2020-08-15T22:59:28+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1093
+2020-08-15T22:59:34+00:00 NOTICE debug :: Order ID 1093 was pending and is now failed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-08-15T23:05:36+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id e625b6a0e874b1d5c7e5441e7b7f686b
+2020-08-15T23:05:38+00:00 NOTICE order_sumbit :: #1092 has a financial status of cancelled and was skipped.
+2020-08-15T23:05:38+00:00 NOTICE system.debug :: order 1093 is in failed status, and is being skipped for now.
+2020-08-15T23:05:39+00:00 NOTICE abandoned_cart.success :: email: hola@opticasoliva.pe :: checkout_url: https://opticasoliva.pe/checkout/?mc_cart_id=e625b6a0e874b1d5c7e5441e7b7f686b
+2020-08-15T23:05:39+00:00 NOTICE cart.member.updated :: Updated hola@opticasoliva.pe subscriber status to transactional and language to es
+2020-08-15T23:05:55+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1094
+2020-08-15T23:08:10+00:00 NOTICE debug :: Order ID 1094 was pending and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-08-15T23:10:45+00:00 NOTICE order_sumbit :: #1094 has a financial status of cancelled and was skipped.
+2020-08-15T23:13:55+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id e625b6a0e874b1d5c7e5441e7b7f686b
+2020-08-15T23:15:53+00:00 NOTICE abandoned_cart.success :: email: hola@opticasoliva.pe :: checkout_url: https://opticasoliva.pe/checkout/?mc_cart_id=e625b6a0e874b1d5c7e5441e7b7f686b
+2020-08-15T23:19:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id a1e1895f54f4b3d43b627dee46d3dde7
+2020-08-15T23:20:46+00:00 NOTICE abandoned_cart.success :: email: cristhian.0916@gmail.com :: checkout_url: https://opticasoliva.pe/checkout/?mc_cart_id=a1e1895f54f4b3d43b627dee46d3dde7
+2020-08-15T23:21:20+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1095
+2020-08-15T23:22:35+00:00 NOTICE debug :: Order ID 1095 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://opticasoliva.pe/checkout/order-pay/1093/?pay_for_order=true&key=wc_order_Oh35iIuqZudw9
+        )
+
+)
+
+2020-08-15T23:24:25+00:00 NOTICE product.deleted :: deleted product 1091
+2020-08-15T23:24:55+00:00 NOTICE order.member.updated :: Updated cristhian.0916@gmail.com subscriber status to subscribed and language to es
+2020-08-15T23:24:55+00:00 NOTICE order_submit.success :: addStoreOrder :: #1095 :: email: cristhian.0916@gmail.com :: landing site https://opticasoliva.pe/checkout/order-pay/1093/?pay_for_order=true&key=wc_order_Oh35iIuqZudw9 :: abandoned cart deleted [a1e1895f54f4b3d43b627dee46d3dde7]
+2020-08-15T23:25:46+00:00 NOTICE product.delete_fail :: Unable to deleted product 1090

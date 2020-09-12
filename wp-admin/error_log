@@ -1,0 +1,111 @@
+[22-Jul-2020 23:46:21 UTC] Error Unknown column 'wp_' in 'field list' de la base de datos de WordPress para la consulta SELECT wp_
+[23-Jul-2020 00:07:29 UTC] PHP Warning:  sprintf(): Too few arguments in /home/opticaso/public_html/opticasoliva.pe/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[23-Jul-2020 00:07:40 UTC] PHP Warning:  sprintf(): Too few arguments in /home/opticaso/public_html/opticasoliva.pe/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[23-Jul-2020 00:08:00 UTC] PHP Warning:  sprintf(): Too few arguments in /home/opticaso/public_html/opticasoliva.pe/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[23-Jul-2020 00:09:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/opticaso/public_html/opticasoliva.pe/wp-content/themes/flatsome/inc/admin/envato_setup/envato_setup.php on line 1733
+[30-Jul-2020 23:22:34 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 8192 bytes) in /home/opticaso/public_html/opticasoliva.pe/wp-includes/media.php on line 3166
+[03-Aug-2020 21:24:46 UTC] [Loco.error] "Translation set not known in WooCommerce Gravity Forms Product Add-Ons" in src/admin/bundle/BaseController.php:69
+[03-Aug-2020 21:24:46 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:87
+[03-Aug-2020 21:26:54 UTC] [Loco.error] "Translation set not known in WooCommerce Gravity Forms Product Add-Ons" in src/admin/bundle/BaseController.php:69
+[03-Aug-2020 21:26:54 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:87
+[03-Aug-2020 21:27:55 UTC] [Loco.error] "Translation set not known in WooCommerce Gravity Forms Product Add-Ons" in src/admin/bundle/BaseController.php:69
+[03-Aug-2020 21:27:55 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:87
+[03-Aug-2020 21:30:59 UTC] [Loco.error] "Translation set not known in WooCommerce Gravity Forms Product Add-Ons" in src/admin/bundle/BaseController.php:69
+[03-Aug-2020 21:30:59 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:87
+[03-Aug-2020 21:31:25 UTC] [Loco.error] "Translation set not known in WooCommerce Gravity Forms Product Add-Ons" in src/admin/bundle/BaseController.php:69
+[03-Aug-2020 21:31:25 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:87
+[04-Aug-2020 00:36:02 UTC] [Loco.error] "Translation set not known in WooCommerce Gravity Forms Product Add-Ons" in src/admin/bundle/BaseController.php:69
+[04-Aug-2020 00:36:02 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:87
+[04-Aug-2020 00:37:39 UTC] [Loco.error] "Translation set not known in WooCommerce Gravity Forms Product Add-Ons" in src/admin/bundle/BaseController.php:69
+[04-Aug-2020 00:37:39 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:87
+[04-Aug-2020 00:38:27 UTC] [Loco.error] "Translation set not known in WooCommerce Gravity Forms Product Add-Ons" in src/admin/bundle/BaseController.php:69
+[04-Aug-2020 00:38:27 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:87
+[04-Aug-2020 00:55:56 UTC] [Loco.error] "Translation set not known in WooCommerce Gravity Forms Product Add-Ons" in src/admin/bundle/BaseController.php:69
+[04-Aug-2020 00:55:56 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:87
+[04-Aug-2020 01:00:24 UTC] [Loco.error] "Translation set not known in WooCommerce Gravity Forms Product Add-Ons" in src/admin/bundle/BaseController.php:69
+[04-Aug-2020 01:00:24 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:87
+[04-Aug-2020 04:58:54 UTC] [Loco.error] "Translation set not known in WooCommerce Gravity Forms Product Add-Ons" in src/admin/bundle/BaseController.php:69
+[04-Aug-2020 04:58:54 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:87
+[04-Aug-2020 05:00:28 UTC] [Loco.error] "Translation set not known in WooCommerce Gravity Forms Product Add-Ons" in src/admin/bundle/BaseController.php:69
+[04-Aug-2020 05:00:28 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:87
+[04-Aug-2020 05:05:38 UTC] [Loco.error] "Translation set not known in WooCommerce Gravity Forms Product Add-Ons" in src/admin/bundle/BaseController.php:69
+[04-Aug-2020 05:05:38 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:87
+[04-Aug-2020 05:05:54 UTC] [Loco.error] "Translation set not known in WooCommerce Gravity Forms Product Add-Ons" in src/admin/bundle/BaseController.php:69
+[04-Aug-2020 05:05:54 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:87
+[04-Aug-2020 05:06:00 UTC] [Loco.error] "Translation set not known in WooCommerce Gravity Forms Product Add-Ons" in src/admin/bundle/BaseController.php:69
+[04-Aug-2020 05:06:00 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:87
+[04-Aug-2020 05:06:13 UTC] [Loco.error] "Translation set not known in WooCommerce Gravity Forms Product Add-Ons" in src/admin/bundle/BaseController.php:69
+[04-Aug-2020 05:06:13 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:87
+[04-Aug-2020 05:07:30 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:87
+[04-Aug-2020 05:27:10 UTC] [Loco.error] "Translation set not known in WooCommerce Gravity Forms Product Add-Ons" in src/admin/bundle/BaseController.php:69
+[04-Aug-2020 05:27:10 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:87
+[04-Aug-2020 05:30:16 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:87
+[04-Aug-2020 05:30:30 UTC] [Loco.error] "Translation set not known in WooCommerce Gravity Forms Product Add-Ons" in src/admin/bundle/BaseController.php:69
+[04-Aug-2020 05:30:30 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:87
+[04-Aug-2020 05:34:18 UTC] [Loco.error] "Translation set not known in WooCommerce Gravity Forms Product Add-Ons" in src/admin/bundle/BaseController.php:69
+[04-Aug-2020 05:39:49 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:87
+[08-Aug-2020 03:22:38 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/mailchimp-for-woocommerce/admin/class-mailchimp-woocommerce-admin.php:650
+Stack trace:
+#0 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-hook.php(287): MailChimp_WooCommerce_Admin->mailchimp_woocommerce_ajax_oauth_start('')
+#1 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/opticaso/public_html/opticasoliva.pe/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/opticaso/public_html/opticasoliva.pe/wp-admin/admin-ajax.php(175): do_action('wp_ajax_mailchi...')
+#4 {main}
+  thrown in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/mailchimp-for-woocommerce/admin/class-mailchimp-woocommerce-admin.php on line 650
+[08-Aug-2020 18:28:35 UTC] Error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'values longtext NOT NULL,
+			uuid varchar(255) NOT NULL,
+			consent varchar...' at line 10 de la base de datos de WordPress para la consulta CREATE TABLE wp_pum_subscribers (
+			ID bigint(20) NOT NULL AUTO_INCREMENT,
+			email_hash varchar(32) NOT NULL,
+			popup_id bigint(20) NOT NULL,
+			user_id bigint(20) NOT NULL,
+			email varchar(191) NOT NULL,
+			name varchar(255) NOT NULL,
+			fname varchar(255) NOT NULL,
+			lname varchar(255) NOT NULL,
+			values longtext NOT NULL,
+			uuid varchar(255) NOT NULL,
+			consent varchar(255) NOT NULL,
+			consent_args longtext NOT NULL,
+			created datetime NOT NULL,
+		  PRIMARY KEY  (ID),
+		  KEY email (email),
+		  KEY user_id (user_id),
+		  KEY popup_id (popup_id),
+		  KEY email_hash (email_hash)
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci realizada por require_once('wp-admin/admin.php'), do_action('popup_page_pum-subscribers'), WP_Hook->do_action, WP_Hook->apply_filters, PUM_Admin_Subscribers::page, PUM_Admin_Subscribers_Table->prepare_items, PUM_Abstract_Database::instance, PUM_Abstract_Database->__construct, PUM_DB_Subscribers->create_table, dbDelta
+[08-Aug-2020 18:28:35 UTC] Error Table 'opticaso_88cb1l.wp_pum_subscribers' doesn't exist de la base de datos de WordPress para la consulta SELECT `ID`, `uuid`, `popup_id`, `email_hash`, `email`, `name`, `fname`, `lname`, `values`, `user_id`, `consent_args`, `consent`, `created` FROM wp_pum_subscribers WHERE 1=1 LIMIT 20 realizada por require_once('wp-admin/admin.php'), do_action('popup_page_pum-subscribers'), WP_Hook->do_action, WP_Hook->apply_filters, PUM_Admin_Subscribers::page, PUM_Admin_Subscribers_Table->prepare_items, PUM_DB_Subscribers->query
+[08-Aug-2020 18:28:35 UTC] Error Table 'opticaso_88cb1l.wp_pum_subscribers' doesn't exist de la base de datos de WordPress para la consulta SELECT `ID`, `uuid`, `popup_id`, `email_hash`, `email`, `name`, `fname`, `lname`, `values`, `user_id`, `consent_args`, `consent`, `created` FROM wp_pum_subscribers WHERE 1=1 realizada por require_once('wp-admin/admin.php'), do_action('popup_page_pum-subscribers'), WP_Hook->do_action, WP_Hook->apply_filters, PUM_Admin_Subscribers::page, PUM_Admin_Subscribers_Table->prepare_items, PUM_DB_Subscribers->total_rows, PUM_DB_Subscribers->query
+[18-Aug-2020 06:11:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Admin\Events' not found in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/FeaturePlugin.php:175
+Stack trace:
+#0 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/FeaturePlugin.php(143): Automattic\WooCommerce\Admin\FeaturePlugin->includes()
+#1 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/FeaturePlugin.php(80): Automattic\WooCommerce\Admin\FeaturePlugin->on_plugins_loaded()
+#2 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Package.php(82): Automattic\WooCommerce\Admin\FeaturePlugin->init()
+#3 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#4 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/src/Packages.php(72): call_user_func(Array)
+#5 /home/opticaso/public_html/opticasoliva.pe/wp-conte in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/FeaturePlugin.php on line 175
+[18-Aug-2020 06:11:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Admin\Events' not found in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/FeaturePlugin.php:175
+Stack trace:
+#0 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/FeaturePlugin.php(143): Automattic\WooCommerce\Admin\FeaturePlugin->includes()
+#1 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/FeaturePlugin.php(80): Automattic\WooCommerce\Admin\FeaturePlugin->on_plugins_loaded()
+#2 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Package.php(82): Automattic\WooCommerce\Admin\FeaturePlugin->init()
+#3 [internal function]: Automattic\WooCommerce\Admin\Composer\Package::init()
+#4 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/src/Packages.php(72): call_user_func(Array)
+#5 /home/opticaso/public_html/opticasoliva.pe/wp-conte in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/FeaturePlugin.php on line 175
+[18-Aug-2020 06:11:50 UTC] PHP Fatal error:  Uncaught Error: Class 'NextendSocialProviderAdmin' not found in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/nextend-facebook-connect/includes/provider.php:79
+Stack trace:
+#0 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/nextend-facebook-connect/providers/facebook/facebook.php(70): NextendSocialProvider->__construct(Array)
+#1 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/nextend-facebook-connect/providers/facebook/facebook.php(260): NextendSocialProviderFacebook->__construct()
+#2 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/nextend-facebook-connect/nextend-social-login.php(277): require_once('/home/opticaso/...')
+#3 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-hook.php(287): NextendSocialLogin::plugins_loaded('')
+#4 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/opticaso/public_html/opticasoliva.pe/wp-includes/plugin.php(478): WP_Hook->do_action(Arra in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/nextend-facebook-connect/includes/provider.php on line 79
+[18-Aug-2020 06:11:55 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/woo-variation-swatches/includes/class-wvs-settings-api.php on line 227
+[18-Aug-2020 06:16:48 UTC] PHP Fatal error:  Uncaught Error: Class 'NextendSocialProviderAdmin' not found in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/nextend-facebook-connect/includes/provider.php:79
+Stack trace:
+#0 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/nextend-facebook-connect/providers/facebook/facebook.php(70): NextendSocialProvider->__construct(Array)
+#1 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/nextend-facebook-connect/providers/facebook/facebook.php(260): NextendSocialProviderFacebook->__construct()
+#2 /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/nextend-facebook-connect/nextend-social-login.php(277): require_once('/home/opticaso/...')
+#3 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-hook.php(287): NextendSocialLogin::plugins_loaded('')
+#4 /home/opticaso/public_html/opticasoliva.pe/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/opticaso/public_html/opticasoliva.pe/wp-includes/plugin.php(478): WP_Hook->do_action(Arra in /home/opticaso/public_html/opticasoliva.pe/wp-content/plugins/nextend-facebook-connect/includes/provider.php on line 79
